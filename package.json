@@ -1,0 +1,15 @@
+{
+  "name": "arstechnica-policy-articles",
+  "version": "1.0.0",
+  "description": "Tool that scrapes Ars Techinca for the top articles in the Policy section and creates a network of relations between tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michele Invernizzi",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "nightmare": "^2.8.1",
+    "underscore": "^1.8.3"
+  }
+}
